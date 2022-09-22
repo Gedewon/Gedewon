@@ -1,4 +1,4 @@
-### ሰላም, Gedewon Here 👋🏾
+## ሰላም, Gedewon Here 👋🏾
 
 Nice to meet you. My name is Gedewon Haile. I am Software Engineer by ♥ 👨🏾‍💻.
 Currently I'm working on Web and all things related. I'm based in 🇪🇹
