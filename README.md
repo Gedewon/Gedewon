@@ -35,6 +35,4 @@ Other        4 hrs 1 min     ██░░░░░░░░░░░░░░░
 ### My blogposts
 
 <!-- BLOG-POST-LIST:START -->
-
-- [useState vs. useRef and useReducer: Similarities, differences, and use cases](https://medium.com/@gedewon.hayle.9/usestate-vs-useref-and-usereducer-similarities-differences-and-use-cases-542c1c4305e2)
 <!-- BLOG-POST-LIST:END -->
