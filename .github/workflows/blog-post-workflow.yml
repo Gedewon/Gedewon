@@ -2,7 +2,8 @@ name: Latest blog post workflow
 on:
   schedule:
     # Runs every hour
-   - cron: "0 * * * *"
+     - cron: '0 * * * *' # Runs every hour, on the hour
+  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
 
 jobs:
   update-readme-with-blog:
